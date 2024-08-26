@@ -1,14 +1,14 @@
-#👋 Sobre mi
+# 👋 Sobre mi
 Hola! soy Jessika, desarrolladora back-end junior y administradora, comprometida con la creación de aplicaciones web amigables, responsivas y estéticamente agradables. Con habilidades en HTML, CSS y JavaScript, disfruto creando experiencias de usuario atractivas y funcionales. Mi entusiasmo por el aprendizaje continuo y mi capacidad para adaptarme rápidamente a nuevos entornos me permiten prosperar en entornos colaborativos.
 
-##💻 Tech Stack:
+## 💻 Tech Stack:
 HTML5 CSS3 JavaScript GitHub GithubPages NPM Figma Git ESLint Trello
 
-##🧲 Habilidades
+## 🧲 Habilidades
 Lingüísticas: Español (Nativo)| English ( B2 Upper intermediate)
 Interpersonales: Empatía | Trabajo en equipo | Comunicación efectiva | Adaptabilidad
 
-##📚 Educación
+## 📚 Educación
 Desarrollo Web | Bootcamp Laboratoria | Mayo - Octubre 2024
 Administracion de Empresas |  Instituto Superior SISE | Febrero de 2018 - Junio de 2021
 Arquitectura y Urbanismo | Universidad Central de Venezuela | Noviembre 2014 - Septiembre 2016
