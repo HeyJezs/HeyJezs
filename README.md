@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jessika Sanchez
+<h1 align="center">👋 ¡Hola! Soy Jessika Sanchez</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vcenter=true&width=500&lines=Desarrolladora+Back-End+Junior;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Administradora+de+Empresas" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Sobre mí
+<h3 align="center">🚀 Sobre mí</h3>
 
 ¡Hola! Soy **Jessika**, una apasionada **Desarrolladora Back-End** y **Administradora de Empresas**. Me enfoco en construir lógica sólida, bases de datos eficientes y aplicaciones web funcionales, integrando siempre una visión estructurada del negocio con el código.
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+<h3 align="center">🛠️ Tecnologías y Herramientas</h3>
 
 #### **Lenguajes & Back-End**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-### 🎓 Educación
+<h3 align="center">🎓 Educación</h3>
 
 * ⚙️ **Ingeniería de Sistemas** | *Universidad Nacional Experimental Politécnica de la Fuerza Armada (UNEFA)* (2026 - Presente)
 * 💻 **Desarrollo Web** | *Laboratoria Bootcamp* (Mayo 2024 - Octubre 2024)
@@ -45,9 +45,9 @@
 
 ---
 
-### 📬 ¡Conectemos!
+<h3 align="center">📬 ¡Conectemos!</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/jessika-sanchez-c" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
