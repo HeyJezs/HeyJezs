@@ -1,41 +1,57 @@
-# 👋 Sobre mi
-Hola! soy Jessika, desarrolladora back-end junior y administradora, comprometida con la creación de aplicaciones web amigables, responsivas y estéticamente agradables. Con habilidades en HTML, CSS y JavaScript, disfruto creando experiencias de usuario atractivas y funcionales. Mi entusiasmo por el aprendizaje continuo y mi capacidad para adaptarme rápidamente a nuevos entornos me permiten prosperar en entornos colaborativos.
+# 👋 ¡Hola! Soy Jessika Sanchez
 
-## 📚 Educación
-Desarrollo Web | Bootcamp Laboratoria | Mayo - Octubre 2024
-
-
-Administracion de Empresas |  Instituto Superior SISE | Febrero de 2018 - Junio de 2021
-
-
-Arquitectura y Urbanismo | Universidad Central de Venezuela | Noviembre 2014 - Septiembre 2016
-
-## 🧲 Habilidades
-Lingüísticas: Español (Nativo)| English ( B2 Upper intermediate)
-
-Interpersonales: Empatía | Trabajo en equipo | Comunicación efectiva | Adaptabilidad
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//jessika-sanchez-c) 
-
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HeyJezs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HeyJezs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyJezs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HeyJezs&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HeyJezs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vcenter=true&width=500&lines=Desarrolladora+Back-End+Junior;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Administradora+de+Empresas" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HeyJezs&icon=7&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Sobre mí
+
+¡Hola! Soy **Jessika**, una apasionada **Desarrolladora Back-End** y **Administradora de Empresas**. Me enfoco en construir lógica sólida, bases de datos eficientes y aplicaciones web funcionales, integrando siempre una visión estructurada del negocio con el código.
+
+* 🎓 **Estudiante de Ingeniería de Sistemas** combinando lógica, resolución de problemas y gestión.
+* 💡 Me apasiona el aprendizaje continuo, la optimización de procesos y el trabajo colaborativo.
+* 🌐 Idiomas: **Español** (Nativo) | **Inglés** (B2 - Intermedio Alto).
+* 🎯 Actualmente enfocada en: **Python, SQL, JavaScript y metodologías ágiles**.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### **Lenguajes & Back-End**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### **Front-End & Diseño**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Herramientas & Entorno**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6B46C1?style=for-the-badge&logo=scrumAlliance&logoColor=white)
+
+---
+
+### 🎓 Educación
+
+* ⚙️ **Ingeniería de Sistemas** | *Universidad Nacional Experimental Politécnica de la Fuerza Armada (UNEFA)* (2026 - Presente)
+* 💻 **Desarrollo Web** | *Laboratoria Bootcamp* (Mayo 2024 - Octubre 2024)
+* 📊 **Administración de Empresas** | *Instituto Superior SISE* (Feb 2018 - Jun 2021)
+* 🏛️ **Arquitectura y Urbanismo** | *Universidad Central de Venezuela* (Nov 2014 - Sep 2016)
+
+---
+
+### 📬 ¡Conectemos!
+
+<p align="left">
+  <a href="https://linkedin.com/in/jessika-sanchez-c" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jessikasanchezc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
